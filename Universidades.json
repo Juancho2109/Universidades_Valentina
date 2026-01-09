@@ -1,0 +1,38 @@
+{
+    "Universidad de los Andes": {
+        "web": "https://uniandes.edu.co/",
+        "carreras": {
+            "Ingeniería de Sistemas": {
+                "precio_2026": "$23.400.000 COP",
+                "financiamiento": "Beca Quiero Estudiar (100%), Icetex Línea Progresa",
+                "pensum_link": "https://sistemas.uniandes.edu.co/",
+                "materias": ["Cálculo 1", "Algorítmica y Progr.", "Física", "Diseño de Software"],
+                "rating": 0
+            }
+        }
+    },
+    "Universidad Nacional": {
+        "web": "https://unal.edu.co/",
+        "carreras": {
+            "Medicina": {
+                "precio_2026": "Según PBM (Desde $0 hasta $10.000.000)",
+                "financiamiento": "Matrícula Cero, Programa Peama, Becas de Bienestar",
+                "pensum_link": "https://medicina.unal.edu.co/",
+                "materias": ["Anatomía I", "Biología Celular", "Histología", "Biofísica"],
+                "rating": 0
+            }
+        }
+    },
+    "Pontificia Universidad Javeriana": {
+        "web": "https://www.javeriana.edu.co/",
+        "carreras": {
+            "Derecho": {
+                "precio_2026": "$18.900.000 COP",
+                "financiamiento": "Beca Excelencia, Crédito con el Banco Pichincha e Icetex",
+                "pensum_link": "https://www.javeriana.edu.co/carrera-derecho",
+                "materias": ["Derecho Romano", "Introducción al Derecho", "Constitucional", "Civil"],
+                "rating": 0
+            }
+        }
+    }
+}
