@@ -1,37 +1,43 @@
 {
-    "Universidad de los Andes": {
-        "web": "https://uniandes.edu.co/",
-        "carreras": {
-            "Ingeniería de Sistemas": {
-                "precio_2026": "$23.400.000 COP",
-                "financiamiento": "Beca Quiero Estudiar (100%), Icetex Línea Progresa",
-                "pensum_link": "https://sistemas.uniandes.edu.co/",
-                "materias": ["Cálculo 1", "Algorítmica y Progr.", "Física", "Diseño de Software"],
-                "rating": 0
-            }
-        }
-    },
     "Universidad Nacional": {
+        "fondo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Facultad_de_Medicina_UNAL.jpg/800px-Facultad_de_Medicina_UNAL.jpg",
         "web": "https://unal.edu.co/",
         "carreras": {
             "Medicina": {
-                "precio_2026": "Según PBM (Desde $0 hasta $10.000.000)",
-                "financiamiento": "Matrícula Cero, Programa Peama, Becas de Bienestar",
-                "pensum_link": "https://medicina.unal.edu.co/",
-                "materias": ["Anatomía I", "Biología Celular", "Histología", "Biofísica"],
-                "rating": 0
+                "precio_2026": "Costo variable según PBM (Puntaje Básico de Matrícula)",
+                "financiamiento": "Matrícula Cero (Gobierno Nacional), Becas de Bienestar Universitario, Icetex condonable.",
+                "pensum_link": "https://medicina.unal.edu.co/formacion/pregrado/medicina/",
+                "materias": ["Anatomía Humana", "Biología Celular", "Histología", "Bioquímica Médica"]
+            },
+            "Ingeniería de Sistemas": {
+                "precio_2026": "Costo variable según PBM",
+                "financiamiento": "Generación E, Matrícula Cero, Créditos Icetex.",
+                "pensum_link": "https://ingenieria.bogota.unal.edu.co/es/formacion/pregrado/ingenieria-de-sistemas.html",
+                "materias": ["Programación de Computadores", "Cálculo Diferencial", "Estructuras de Datos", "Arquitectura de Software"]
+            }
+        }
+    },
+    "Universidad de los Andes": {
+        "fondo": "https://uniandes.edu.co/sites/default/files/styles/image_1140x641/public/2023-05/campus-uniandes-banner.jpg",
+        "web": "https://uniandes.edu.co/",
+        "carreras": {
+            "Ingeniería de Sistemas": {
+                "precio_2026": "$23.400.000 COP (Estimado por semestre)",
+                "financiamiento": "Beca Quiero Estudiar (Cubre hasta el 95%), Crédito Condonable Icetex, Financiación Directa Uniandes.",
+                "pensum_link": "https://sistemas.uniandes.edu.co/es/pregrado/ingenieria-de-sistemas/pensum",
+                "materias": ["Introducción a la Ingeniería", "Algorítmica y Programación", "Cálculo Integral", "Física I"]
             }
         }
     },
     "Pontificia Universidad Javeriana": {
+        "fondo": "https://www.javeriana.edu.co/recursos/javeriana/images/campus/campus_javeriana_01.jpg",
         "web": "https://www.javeriana.edu.co/",
         "carreras": {
             "Derecho": {
-                "precio_2026": "$18.900.000 COP",
-                "financiamiento": "Beca Excelencia, Crédito con el Banco Pichincha e Icetex",
+                "precio_2026": "$18.950.000 COP (Proyectado)",
+                "financiamiento": "Beca Excelencia Académica, Créditos con entidades bancarias (Pichincha, Sufi), Icetex.",
                 "pensum_link": "https://www.javeriana.edu.co/carrera-derecho",
-                "materias": ["Derecho Romano", "Introducción al Derecho", "Constitucional", "Civil"],
-                "rating": 0
+                "materias": ["Derecho Romano", "Introducción al Derecho", "Derecho Constitucional", "Derecho Civil"]
             }
         }
     }
